@@ -1,3 +1,7 @@
 a = 1
 # i went to change 1
-# edit in master
+<<<<<<< HEAD
+# edit in master and in dev
+=======
+# lovely boss
+>>>>>>> boss
